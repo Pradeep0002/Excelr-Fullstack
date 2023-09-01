@@ -1,0 +1,13 @@
+class KL 
+{
+	public static void main(String[] args) 
+	{
+		int i;
+		for (i = 0;System.out.println("INITIALIZER");
+		int < 5;
+		i++,System.out.println("INCREMENT");
+		{
+		System.out.println("BODY");
+	}
+}
+}
